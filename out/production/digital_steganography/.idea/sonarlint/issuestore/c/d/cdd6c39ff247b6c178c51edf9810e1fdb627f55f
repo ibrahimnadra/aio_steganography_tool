@@ -1,0 +1,14 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(íşéæ
+c
+java:S5361"HReplace this call to "replaceAll()" by a call to the "replace()" method.(öÖ¤ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(³¸ñÒúÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(”¥»Ç
+Q	java:S125$"<This block of commented-out lines of code should be removed.(”¥»Ç
+^
+java:S16597"HDeclare "secretGreen" and all following declarations on a separate line.(äŒÅù
+V	java:S1250"<This block of commented-out lines of code should be removed.(ĞõÑùÿÿÿÿ
+Q	java:S1255"<This block of commented-out lines of code should be removed.(¸¡»ş
+Q	java:S1255"<This block of commented-out lines of code should be removed.(¸¡»ş
+Q	java:S1255"<This block of commented-out lines of code should be removed.(¸¡»ş
+Q	java:S1255"<This block of commented-out lines of code should be removed.(¸¡»ş

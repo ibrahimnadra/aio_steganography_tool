@@ -1,0 +1,17 @@
+
+V
+java:S2184L"@Cast one of the operands of this addition operation to a "long".(Ö¹»æ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Šƒþû
+d
+java:S2095"NUse try-with-resources or close this "RandomAccessFile" in a "finally" clause.(Þ»‡°
+d
+java:S2095K"NUse try-with-resources or close this "RandomAccessFile" in a "finally" clause.(†¾¨±
+P
+java:S1118":Add a private constructor to hide the implicit public one.(ÍËÅ×
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(ÑñÜ‘úÿÿÿÿ
+œ
+java:S11307"€Remove the declaration of thrown exception 'textInAudioStego.SecretMessageException', as it cannot be thrown from method's body.(žýâ¾ÿÿÿÿÿ
+V	java:S125["<This block of commented-out lines of code should be removed.(Ší™þüÿÿÿÿ
+S	java:S106f"9Replace this use of System.out or System.err by a logger.(©þêÜúÿÿÿÿ
+V	java:S125o"<This block of commented-out lines of code should be removed.(µŒÑþÿÿÿÿ
+W	java:S125†"<This block of commented-out lines of code should be removed.(ÙÅüóýÿÿÿÿ

@@ -1,0 +1,43 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(şÄĞ
+i
+java:S2259"S"NullPointerException" will be thrown when invoking method "getImageInUserSpace()".(ÜàÑ—
+a
+java:S2095"EUse try-with-resources or close this "Scanner" in a "finally" clause.(ïËµ—ıÿÿÿÿ
+b
+java:S2095z"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(ğ­Ï
+c
+java:S2095y"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(õ§İèıÿÿÿÿ
+O
+java:S1118":Add a private constructor to hide the implicit public one.(ñåU
+W
+java:S1854*"<Remove this useless assignment to local variable "fileName".(Ê¨”úÿÿÿÿ
+1
+java:S36260"Remove this redundant jump.(ûÁİ…
+Q	java:S125"<This block of commented-out lines of code should be removed.(ÉÕÎ¤
+E
+java:S1197"*Move the array designators [] to the type.(–µË”ûÿÿÿÿ
+@
+java:S1197"*Move the array designators [] to the type.(ùÔƒå
+@
+java:S1197"*Move the array designators [] to the type.(Ü€¦›
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(ŸğˆÕ
+P	java:S125-"<This block of commented-out lines of code should be removed.(¼áœ
+E
+java:S1197I"*Move the array designators [] to the type.(–µË”ûÿÿÿÿ
+V	java:S125L"<This block of commented-out lines of code should be removed.(Ì«ëæÿÿÿÿÿ
+N	java:S106Q"9Replace this use of System.out or System.err by a logger.(’™ñÛ
+U	java:S899m";Do something with the "boolean" value returned by "delete".(²Œ­ûÿÿÿÿ
+i
+java:S4042m"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(²Œ­ûÿÿÿÿ
+M	java:S106p"9Replace this use of System.out or System.err by a logger.(ˆ§±
+=
+java:S1125v"'Remove the unnecessary boolean literal.(ºõ¢Ú
+\	java:S899w"BDo something with the "boolean" value returned by "createNewFile".(Ğ’Íùÿÿÿÿ
+S	java:S106~"9Replace this use of System.out or System.err by a logger.(ªÁ‚×ıÿÿÿÿ
+O	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(Ö·ı€
+O	java:S106”"9Replace this use of System.out or System.err by a logger.(üÅşÒ
+H
+java:S1144t"3Remove this unused private "saveTextToPath" method.(ÒğÌu
+T
+java:S1144"8Remove this unused private "getTextFromTextFile" method.(›¯ı™üÿÿÿÿ

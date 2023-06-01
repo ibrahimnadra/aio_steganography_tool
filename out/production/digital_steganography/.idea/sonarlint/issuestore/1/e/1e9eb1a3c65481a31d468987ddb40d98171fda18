@@ -1,0 +1,13 @@
+
+E
+java:S1604A"(Make this anonymous inner class a lambda(¬»õá8•Ñ»„1
+v	java:S116"URename this field "info_frame" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€éÿÂıÿÿÿÿ8´Ñ»„1
+|	java:S116"[Rename this field "description_area" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šşïòûÿÿÿÿ8´Ñ»„1
+w	java:S116"VRename this field "scroll_pane" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×üü‹ıÿÿÿÿ8´Ñ»„1
+r	java:S116"VRename this field "button_home" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( áÄ8´Ñ»„1
+£
+java:S1186_"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¼ Òşüÿÿÿÿ8µÑ»„1
+T
+java:S6126"2Replace this String concatenation with Text block.(î­ö€ùÿÿÿÿ8¹Ñ»„1
+n
+java:S3252J"LUse static access with "javax.swing.WindowConstants" for "DISPOSE_ON_CLOSE".(†‚¥¾ÿÿÿÿÿ8ÂÑ»„1

@@ -1,0 +1,17 @@
+
+[	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(èÍâ±
+[	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(‚º·„
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Òô‚öþÿÿÿÿ
+[	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ÿôÃ°
+`	java:S112#"FDefine and throw a dedicated exception instead of using a generic one.(èÎ¨Óüÿÿÿÿ
+7
+java:S1643&"Use a StringBuilder instead.(Œƒâ¤úÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¦­Å÷ùÿÿÿÿ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(Î”§ž
+‡
+java:S1130#"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(èÎ¨Óüÿÿÿÿ
+;
+java:S2129$" Remove this "String" constructor(ÿÍ—¿þÿÿÿÿ
+A
+java:S1905&"&Remove this unnecessary cast to "int".(Œƒâ¤úÿÿÿÿ
